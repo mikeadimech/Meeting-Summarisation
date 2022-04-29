@@ -7,6 +7,8 @@ metrics:
 model-index:
 - name: bart-qmsum-meeting-summarization
   results: []
+datasets:
+- yawnick/QMSum
 ---
 
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
