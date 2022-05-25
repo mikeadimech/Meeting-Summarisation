@@ -16,7 +16,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 # bart-qmsum-meeting-summarization
 
-This model is a fine-tuned version of [sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/distilbart-cnn-12-6) on the None dataset.
+This model is a fine-tuned version of [sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/distilbart-cnn-12-6) on the QMSum dataset.
 It achieves the following results on the evaluation set:
 - Loss: 4.3354
 - Rouge1: 39.5539
